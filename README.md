@@ -7,6 +7,6 @@
 
 ```Replace with your payload and you ready-to-go.```
 
-> This program isn't mine, I'm simplifying it.
+> The program (.exe) isn't mine, I'm simplifying it.
 
 
