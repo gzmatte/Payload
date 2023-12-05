@@ -5,8 +5,8 @@
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ms-photos/releases/download/1/ms-photos.bat)
 
-```Copy-paste your payload into the folder.```
-
-```Start to Extract and you ready-to-go.```
+```Replace with your payload; Extract and you ready-to-go.```
 
 ```Edit the batch if isn't working.```
+
+> This program isn't mine, I just created simplicity.
