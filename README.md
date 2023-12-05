@@ -9,4 +9,4 @@
 
 ```Edit the batch if isn't working.```
 
-> This program isn't mine, I just created simplicity.
+> This program is not mine, I just simplify it.
