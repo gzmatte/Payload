@@ -3,7 +3,7 @@
 
 **A batch to extract any payload from Android ROMs.**
 
-[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ms-photos/releases/download/1/ms-photos.bat)
+[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/Payload/releases/download/1/payload-dumper.zip)
 
 ```Replace with your payload and u're ready-to-go```
 
