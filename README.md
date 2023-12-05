@@ -7,8 +7,6 @@
 
 ```Replace with your payload and you ready-to-go.```
 
-```Edit the batch if isn't working.```
-
 > This program isn't mine, I'm simplifying it.
 
 
